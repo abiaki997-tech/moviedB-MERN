@@ -1,0 +1,42 @@
+.movie-view{
+ height: 100vh;
+ display: flex;
+ margin-top: 40px;
+}
+
+
+.plot{
+  width: 100%;
+  border-left: 5px;
+  line-height: 30px;
+  text-justify: inter-word;
+  
+}
+.box2{
+ grid-area: box2;
+ margin-top: 100px;
+}
+.img_area{
+  height: 450px;
+  width: 350px;
+  border-radius: 5px;
+}
+.box1{
+  margin-top: 50px;
+}
+
+@media (max-width:400px){
+  .movie-view{
+    display: grid;
+    grid-template-columns: 100px;
+
+  }
+  .box2{
+    width: 100%;
+    margin-right: 50px;
+  }
+  .img_area{
+    width: 19rem;
+    margin-left: 5px;
+  }
+} 

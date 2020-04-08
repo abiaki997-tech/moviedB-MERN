@@ -1,0 +1,10 @@
+[0323/143722.642:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0323/143722.220:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0323/143722.814:ERROR:exception_snapshot_win.cc(98)] thread ID 5656 not found in process
+[0323/143722.814:ERROR:exception_snapshot_win.cc(98)] thread ID 3264 not found in process
+[0323/143722.408:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0323/143722.814:ERROR:exception_snapshot_win.cc(98)] thread ID 4828 not found in process
+[0323/143722.814:ERROR:exception_snapshot_win.cc(98)] thread ID 4888 not found in process
+[0323/143722.954:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0323/143722.954:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0403/114942.803:ERROR:settings.cc(320)] Settings magic is not 1129342067

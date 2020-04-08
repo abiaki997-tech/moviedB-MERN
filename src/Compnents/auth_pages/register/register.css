@@ -1,0 +1,39 @@
+
+
+/* .form-area{
+  text-align: center;
+  margin:200px 200px 250px 150px;
+}
+
+.form-group{
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.invalid-feedback{
+  color: red;
+}
+button:hover{
+  background-color: green;
+}
+button{
+  color:white;
+  cursor: pointer;
+  margin-left: 60px;
+} */
+
+.form_area{
+  color:red;
+  text-align:center;
+  background-color:white;
+  padding:10px;
+  /* // marginLeft:"35%" */
+  font-weight:bold;
+}
+.form_close{
+  color:green;
+  margin-left:2px;
+  cursor:pointer;
+  padding:10px;
+  background-color:white;
+}
